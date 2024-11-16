@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: rgb(250, 248, 240, 0.5);
+    font-family: Rubik, Arial, system-ui, sans-serif;
+    color: rgb(152 136 118);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: small;
+  
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

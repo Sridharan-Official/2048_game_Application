@@ -1,0 +1,53 @@
+.scoreBoard{
+    background-color: rgb(234,231,217 );
+    padding: 5px;
+}
+
+
+.bestScoreBoard{
+    border: 2px solid rgba(152, 136, 118, 0.274); 
+    padding: 5px;
+}
+
+.boardValues{
+    font-weight: 900;
+    font-size: 21px;
+    margin: -3px;
+}
+
+.boardName{
+    padding-top: 2px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.newGameButton{
+    border-radius: 9px !important;
+    background-color: #998C7E !important;
+    font-size: 17px !important;
+}
+
+.footer{
+    background-color: rgb(234,231,217 ) !important;
+    padding: 15px 15px 0px 15px;
+    border-radius: 20px;
+}
+
+.footerButton{
+    background-color: rgb(186 172 154) !important;
+    height: 50px !important;
+    min-width: 50px !important;
+    border-radius: 10px !important;
+}
+
+.tooltipFonts{
+    border-radius: 200px !important;
+}
+
+.css-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    background-color: rgb(224 218 209) !important;
+}
+
+.standard :active{
+ background-color: rgb(172, 146, 107) !important;
+}
